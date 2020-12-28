@@ -1,5 +1,5 @@
 
-export function palindromeChecker(string) {
+function palindromeChecker(string) {
     /**
      * checks a string to see if it is a palindrome and returns true or false. Ignores spaces, case, and 
      * non-alphanumeric characters.
